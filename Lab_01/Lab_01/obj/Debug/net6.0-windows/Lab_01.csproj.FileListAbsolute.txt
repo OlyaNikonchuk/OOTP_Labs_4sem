@@ -1,0 +1,17 @@
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\bin\Debug\net6.0-windows\Lab_01.exe
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\bin\Debug\net6.0-windows\Lab_01.deps.json
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\bin\Debug\net6.0-windows\Lab_01.runtimeconfig.json
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\bin\Debug\net6.0-windows\Lab_01.dll
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\bin\Debug\net6.0-windows\ref\Lab_01.dll
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\bin\Debug\net6.0-windows\Lab_01.pdb
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.csproj.AssemblyReference.cache
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.csproj.GenerateResource.cache
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.AssemblyInfoInputs.cache
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.AssemblyInfo.cs
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.csproj.CoreCompileInputs.cache
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.dll
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\ref\Lab_01.dll
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.pdb
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.genruntimeconfig.cache
+C:\Users\Оля\Desktop\2 курс\2 семестр\ООП\Лабы\Lab_01\Lab_01\obj\Debug\net6.0-windows\Lab_01.Calculator.resources
